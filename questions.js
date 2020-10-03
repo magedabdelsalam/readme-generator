@@ -1,7 +1,7 @@
 const questions = [
     {
         type:"input",
-        message:"Project title",
+        message:"Project title:",
         name:"title"
     },
     {
@@ -30,15 +30,10 @@ const questions = [
         name:"tests"
     },
     {
-        type:"input",
-        message:"Questions:",
-        name:"questions"
-    },
-    {
         type:"list",
         message:"License:",
         name:"license",
-        choices:["MIT", "GPLv3", "GPL", "CC-0"]
+        choices:["CC","ISC", "MIT", "Unlicense"]
     },
     {
         type:"input",
