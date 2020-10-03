@@ -19,3 +19,5 @@ None
 * [magedabdelsalam](https://github.com/magedabdelsalam)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Screenshot
+![Image of Workflow](readme.gif)
